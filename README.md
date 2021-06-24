@@ -1,6 +1,6 @@
 I am a biologist-turned programmer, composer and visual artist. 
 
-Despite my background in natural sciences, I seek to develop software for other artists to expand their creative arsenal.
+I educate myself in the fields of biomedical signal processing and machine learning, but I also seek to develop software for other artists to expand their creative arsenal.
 
 I usually focus on AI and signal processing. 
 
